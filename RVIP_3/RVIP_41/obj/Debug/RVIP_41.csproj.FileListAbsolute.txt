@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\bin\Debug\RVIP_41.exe.config
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\bin\Debug\RVIP_41.exe
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\bin\Debug\RVIP_41.pdb
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.Form1.resources
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.Properties.Resources.resources
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.exe
+C:\Users\User\Desktop\Универ\РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.pdb
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\bin\Debug\RVIP_41.exe.config
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.exe
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.pdb
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\bin\Debug\RVIP_41.exe
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\bin\Debug\RVIP_41.pdb
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.csprojResolveAssemblyReference.cache
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.Form1.resources
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.Properties.Resources.resources
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_41\RVIP_41\obj\Debug\RVIP_41.csproj.GenerateResource.Cache
